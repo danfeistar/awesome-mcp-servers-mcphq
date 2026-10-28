@@ -903,11 +903,8 @@
       "robotics",
       "hardware",
       "compatibility",
-      "iot",
       "industrial",
-      "three-state",
-      "iso-9409-1",
-      "3d-printing"
+      "iso-9409-1"
     ],
     "official": true
   },

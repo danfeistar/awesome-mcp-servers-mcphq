@@ -210,7 +210,7 @@ Repositories, CI/CD, observability, and coding workflows for software teams.
 - **[REA](https://github.com/morluto/rea)** `TypeScript` — Local CLI and MCP server for agent-assisted reverse engineering of native binaries, JavaScript/Electron apps, and .NET assemblies.  
   `reverse-engineering` `binary-analysis` `devtools`
 - **[RoboParts](https://github.com/lm203688/roboparts)** `Official` `JavaScript` — Vendor-neutral robot hardware compatibility checker across 868 entities with three-state verdicts and ISO 9409-1 flange anchor.  
-  `robotics` `hardware` `compatibility` `iot` `industrial` `three-state` `iso-9409-1` `3d-printing`
+  `robotics` `hardware` `compatibility` `industrial` `iso-9409-1`
 - **[SanctionsKit Developer MCP](https://www.sanctionskit.com/resources/mcp)** `Official` `Other` — Public SanctionsKit documentation, API schemas, and request validation, with authenticated synthetic sandbox tools for building sanctions screening integrations.  
   `api` `documentation` `sanctions` `sandbox`
 - **[Semgrep MCP Server](https://github.com/semgrep/semgrep/tree/develop/cli/src/semgrep/mcp)** `Official` `Python` — Run static analysis and security scans on codebases via Semgrep.  

@@ -774,7 +774,7 @@ Vendor-neutral robot hardware compatibility checker across 868 entities with thr
 - Language: JavaScript
 - Provider: RoboParts (lm203688)
 - Official: yes
-- Tags: robotics, hardware, compatibility, iot, industrial, three-state, iso-9409-1, 3d-printing
+- Tags: robotics, hardware, compatibility, industrial, iso-9409-1
 - Category: Developer Tools and Code Intelligence
 
 ### SanctionsKit Developer MCP
