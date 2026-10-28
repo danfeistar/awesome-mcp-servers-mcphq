@@ -3543,11 +3543,10 @@
     "provider": "BusyBee",
     "tags": [
       "social-media",
+      "remote",
       "tiktok",
       "instagram",
-      "youtube",
-      "comments",
-      "remote-mcp"
+      "youtube"
     ],
     "official": false
   },

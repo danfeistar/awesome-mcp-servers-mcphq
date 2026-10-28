@@ -1110,7 +1110,7 @@ Hosted remote MCP server for public social media data across TikTok, Instagram, 
 - Language: Python
 - Provider: BusyBee
 - Official: no
-- Tags: social-media, tiktok, instagram, youtube, comments, remote-mcp
+- Tags: social-media, remote, tiktok, instagram, youtube
 - Category: Browsers, Search, and Web Automation
 
 ### Chrome DevTools MCP
